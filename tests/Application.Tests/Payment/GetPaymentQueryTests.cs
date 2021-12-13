@@ -25,6 +25,7 @@ namespace Application.Tests.Payment
         public void GetPayment_NullPaymentId_ShouldHaveValidationError(string paymentId)
         {
             var query = GetPaymentQueryMother.Default();
+
             query.PaymentId = paymentId;
 
             var result = _validator.TestValidate(query);
