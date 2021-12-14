@@ -1,5 +1,5 @@
 # Payment
-Payment API by Ugur
+Payment API (.NET5 with visual studio 2022) by Ugur
 
 
 You can reach the payment api with https://localhost:5001/swagger/index.html after run the api
