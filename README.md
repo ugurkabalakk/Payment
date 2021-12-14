@@ -2,7 +2,7 @@
 Payment API (.NET5 with visual studio 2022) by Ugur
 
 
-You can reach the payment api with https://localhost:5001/swagger/index.html after run the api
+You can reach the payment api with https://localhost:5001/swagger/index.html 
 ![2](https://user-images.githubusercontent.com/56588930/145943295-af8b0a9f-d157-4740-98dc-fe0f4bb8151a.PNG)
 ![3](https://user-images.githubusercontent.com/56588930/145943297-36735001-04ff-4ae6-9a77-349945996ef8.PNG)
 ![4](https://user-images.githubusercontent.com/56588930/145943301-6c5fa16a-8162-4225-9393-83c61bca1497.PNG)
